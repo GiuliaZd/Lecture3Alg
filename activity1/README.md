@@ -4,11 +4,13 @@
 
 - Refer to the following link. Discuss how bubble sort works:
   https://opendsa-server.cs.vt.edu/embed/bubblesortAV
+  DONE
 
 ## Task 2
 
 - Refer to the following link. Your task is to show the behavior for one iteration of the outer for loop of Bubble Sort (Try at least 3 cases).
   https://opendsa-server.cs.vt.edu/ODSA/Exercises/Sorting/BubsortPRO.html
+  DONE
 
 ## Task 3
 
@@ -43,6 +45,8 @@
         }
     }
 ```
+
+DONE
 
 ## Task 4: Individual, at home
 
