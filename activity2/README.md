@@ -4,6 +4,7 @@
 
 - Refer to the following link. Discuss how Insertion sort works:
   https://opendsa-server.cs.vt.edu/ODSA/AV/Sorting/insertionsortAV.html
+  DONE
 
 ## Task 2
 
@@ -23,10 +24,13 @@
     }
 ```
 
+DONE
+
 ## Task 3
 
 - Discuss the complexity analysis of insertion sort. Refer to the link below:
   https://www.softwaretestinghelp.com/insertion-sort/
+  DONE in class
 
 ## Links
 

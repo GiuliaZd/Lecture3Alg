@@ -52,6 +52,9 @@ DONE
 
 - Discuss the complexity analysis of selection sort. Refer to the link below:
   https://www.softwaretestinghelp.com/selection-sort/
+  the answer:
+  Selection sort requires two for loops nested with each other to complete itself. One for loop steps through all the elements in the array and we find the minimum element index using another for loop which is nested inside the outer for loop.
+  Therefore, the time complexity of O(n2) is mainly because of the use of two for loops. Worth noting that the selection sort technique never takes more than O(n) swaps and is beneficial when the memory write operation proves to be costly.
 
 ## Links
 
